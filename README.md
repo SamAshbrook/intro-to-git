@@ -1,5 +1,5 @@
-# intro-to-git
+# intro-to-git 
 
-hello world!
+hello world! 
 
-Second Line
+Second Line, 
